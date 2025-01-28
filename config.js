@@ -5,5 +5,4 @@ const config = {
     interstellar: "bob",
   },
 };
-config=true npm start
 export default config;
